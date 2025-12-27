@@ -211,15 +211,13 @@ Writing custom **Python** scripts to streamline business workflows
 
 ---
 
-## 📈 Contribution Snake
+## 🎯 Coding Activity
 
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitvarshney44/arpitvarshney44/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpitvarshney44/arpitvarshney44/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arpitvarshney44/arpitvarshney44/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arpitvarshney44&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" width="48%" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpitvarshney44&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%" />
   
 </div>
 
