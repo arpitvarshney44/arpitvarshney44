@@ -43,14 +43,14 @@ I am a professional **Freelancer** dedicated to building scalable web softwares,
 ---
 
 ### 📊 GitHub Stats
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitvarshney44&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitvarshney44&layout=compact&theme=radical)
 
 ---
 
 ### 📞 Get In Touch
-- **Freelance Inquiries:** [YourEmail@example.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-- **Portfolio:** [Link to your personal website if you have one]
+- **Freelance Inquiries:** [varshneyarpit44@gail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/arpit-varshney-6490102a5/]
+- **Portfolio:** [www.internbiz.com]
 
 *"Turning complex requirements into simple, elegant code."*
