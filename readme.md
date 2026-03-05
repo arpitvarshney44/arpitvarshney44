@@ -28,7 +28,7 @@ const arpit = {
     location: "India 🇮🇳",
     expertise: ["Web Development", "Mobile Apps", "Data Analytics", "Automation"],
     currentFocus: "Building scalable solutions for businesses worldwide",
-    projectsDelivered: "50+",
+    projectsDelivered: "100+",
     motto: "Turning complex requirements into simple, elegant code"
 };
 ```
