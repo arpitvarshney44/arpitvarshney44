@@ -1,157 +1,171 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F85D7F&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Arpit+Varshney;Full-Stack+Developer+%7C+App+Specialist;Data+Analyst+%7C+Freelancer;50%2B+Projects+Delivered+Successfully!" alt="Typing SVG" />
-  
+
+  <!-- Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:7aa2f7,50:bb9af7,100:f7768e&height=220&section=header&text=Arpit%20Varshney&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Architect%20%7C%20Freelancer&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
+
+  <!-- Animated Typing Tagline -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1800&color=7AA2F7&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Architect+(MERN+%7C+Next.js);Cross-Platform+Mobile+App+Engineer+(React+Native+%7C+Kotlin);Data+Analytics+%26+Automation+Specialist+(Python+%7C+Power+BI);50%2B+Production-Ready+Projects+Delivered;Open+for+Freelance+Projects+%26+Technical+Consulting" alt="Typing SVG" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <!-- Status Badges -->
+  <p align="center">
+    <a href="mailto:varshneyarpit44@gmail.com">
+      <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-7aa2f7?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-India%20🇮🇳-bb9af7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Delivered-50%2B%20Projects-f7768e?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects Delivered" />
+    <img src="https://komarev.com/ghpvc/?username=arpitvarshney44&style=for-the-badge&color=7aa2f7&labelColor=1a1b26&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+
 </div>
-
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-F85D7F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-50%2B-F8D866?style=for-the-badge" />
-</p>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 Quick Terminal Profile
 
-```javascript
-const arpit = {
-    role: "Full-Stack Developer & Freelancer",
-    location: "India 🇮🇳",
-    expertise: ["Web Development", "Mobile Apps", "Data Analytics", "Automation"],
-    currentFocus: "Building scalable solutions for businesses worldwide",
-    projectsDelivered: "100+",
-    motto: "Turning complex requirements into simple, elegant code"
+```typescript
+const arpitVarshney = {
+  pronouns: "he/him",
+  role: "Full-Stack Engineer & Mobile App Architect",
+  location: "India 🇮🇳",
+  experience: "50+ Client & Enterprise Projects Delivered",
+  coreFocus: [
+    "High-Performance Web Platforms (Next.js / MERN)",
+    "Cross-Platform & Native Mobile Apps (React Native / Kotlin / Android)",
+    "Data Pipelines & Business Analytics (Python / Power BI / Excel)",
+    "Custom Business Workflow Automation & API Integrations"
+  ],
+  openFor: ["Freelance Contracts", "SaaS MVP Development", "Consulting"],
+  philosophy: "Turning complex requirements into clean, scalable, and high-impact code."
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+---
 
-### 💼 What I Do
+### ⚡ What I Bring To The Table
 
-🌐 **Web Development**  
-Specialized in **MERN** stack and **Next.js** for high-performance web applications
-
-📱 **Mobile Apps**  
-Native and cross-platform development using **React Native**, **Kotlin**, and **Java**
-
-📊 **Data Analytics**  
-Transforming raw data into insights using **Power BI** and **Advanced Excel**
-
-⚙️ **Automation**  
-Writing custom **Python** scripts to streamline business workflows
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Full-Stack Web Development</h4>
+      <p>Building lightning-fast, SEO-optimized, and scalable modern web applications using the <b>MERN Stack</b>, <b>Next.js</b>, and modern cloud microservices.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Mobile App Engineering</h4>
+      <p>Crafting fluid, high-performance cross-platform and native mobile applications with <b>React Native</b>, <b>Kotlin</b>, and <b>Android Studio</b>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Data Analytics & BI</h4>
+      <p>Transforming complex datasets into actionable business intelligence through <b>Power BI</b> interactive dashboards, <b>Python (Pandas)</b>, and advanced models.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Workflow Automation & APIs</h4>
+      <p>Eliminating repetitive business tasks by developing custom <b>Python automation scripts</b>, secure REST API integrations, and ETL pipelines.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Core Arsenal & Technologies
 
 <div align="center">
 
-### Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <p><b>Languages & Core</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,java,html,css" alt="Languages" />
+  </a>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  <br/><br/>
 
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  <p><b>Frontend & UI Architecture</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind" alt="Frontend" />
+  </a>
 
-### Data & Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  <br/><br/>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  <p><b>Backend, Databases & Cloud</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" alt="Backend" />
+  </a>
+
+  <br/><br/>
+
+  <p><b>Mobile, Tooling & DevOps</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,docker" alt="Tools" />
+  </a>
+
+  <br/><br/>
+
+  <p><b>Data Analytics & Enterprise Tools</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </p>
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+### 🏆 Featured Engineering Solutions
 
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  
-</div>
-
-> *Most of my professional work is under private NDA. Here are summarized architectures:*
+> *Selected architecture snapshots from 50+ delivered client and enterprise projects:*
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 E-Commerce SaaS Platform
-**Stack:** MERN, Next.js, Redux  
-**Features:**
-- Scalable multi-vendor architecture
-- Real-time inventory tracking
-- Payment gateway integration
-
-**Impact:** ⚡ Reduced processing time by 40%
+### 🛒 E-Commerce & SaaS Platform
+**Tech:** Next.js, React, Node.js, MongoDB, Redux  
+- Multi-vendor architecture with fine-grained access control  
+- Real-time inventory tracking and dynamic SKU management  
+- Seamless multi-currency payment gateway integrations  
+<br/>
+<b>⚡ Impact:</b> <i>Boosted checkout speed and reduced transaction processing time by 40%</i>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚚 Logistics Mobile App
-**Stack:** Kotlin, Firebase, Google Maps API  
-**Features:**
-- Real-time driver tracking
-- Automated delivery proof system
-- Route optimization
-
-**Impact:** 📈 Improved delivery efficiency
+### 🚚 Logistics & Fleet Tracker
+**Tech:** Kotlin, React Native, Firebase, Google Maps API  
+- Real-time GPS driver telemetry and automated geofencing  
+- Live route optimization and automated dispatch alerts  
+- Digital proof-of-delivery with secure cloud sync  
+<br/>
+<b>📈 Impact:</b> <i>Optimized fleet turnaround and cut manual dispatch overhead</i>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Financial Dashboard
-**Stack:** Power BI, Python (Pandas), Excel  
-**Features:**
-- Automated data cleaning pipeline
-- Monthly revenue trend visualization
-- Predictive analytics
-
-**Impact:** 💡 Data-driven decision making
+### 📊 Financial Intelligence Dashboard
+**Tech:** Power BI, Python (Pandas), Advanced Excel  
+- Automated ETL pipeline ingesting high-volume transaction data  
+- Interactive monthly revenue, churn, and cash-flow KPIs  
+- Predictive trend modeling for executive decision-makers  
+<br/>
+<b>💡 Impact:</b> <i>Enabled executive leadership to make data-backed growth decisions</i>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔧 Business Automation Suite
-**Stack:** Python, Node.js, APIs  
-**Features:**
-- Custom workflow automation
-- API integrations
-- Report generation
-
-**Impact:** ⏱️ Saved 20+ hours/week
+### 🤖 Business Automation Suite
+**Tech:** Python, REST APIs, Webhooks, Node.js  
+- Automated multi-platform data syncing and document generation  
+- Smart notification dispatch for operational anomalies  
+- Scheduled background jobs and headless data scrapers  
+<br/>
+<b>⏱️ Impact:</b> <i>Saved client teams 20+ hours of manual repetitive work every week</i>
 
 </td>
 </tr>
@@ -159,111 +173,70 @@ Writing custom **Python** scripts to streamline business workflows
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  
-</div>
 
-<br/>
+  <!-- Stats & Streak Side-by-Side -->
+  <a href="https://github.com/arpitvarshney44">
+    <img src="https://github-readme-stats.vercel.app/api?username=arpitvarshney44&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/arpitvarshney44">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitvarshney44&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub Streak" />
+  </a>
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitvarshney44&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="170" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitvarshney44&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" height="170" />
-  
-</div>
+  <br/><br/>
 
-<br/>
+  <!-- Top Languages & Productive Time Side-by-Side -->
+  <a href="https://github.com/arpitvarshney44">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitvarshney44&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/arpitvarshney44">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpitvarshney44&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Time" />
+  </a>
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitvarshney44&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="200" />
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitvarshney44&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&area_color=F8D866" alt="Contribution Graph" width="95%" />
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=arpitvarshney44&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="98%" />
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=arpitvarshney44&style=for-the-badge&color=F85D7F&label=PROFILE+VIEWS)
-  
 </div>
 
 ---
 
-## 🎯 Coding Activity
+### 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arpitvarshney44&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" width="48%" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpitvarshney44&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%" />
-  
-</div>
 
----
+  <p><b>Have a project in mind, need technical consulting, or looking for an experienced developer? Let's talk!</b></p>
 
-## 📞 Let's Connect
-
-<div align="center">
-  
-  <a href="mailto:varshneyarpit44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:varshneyarpit44@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/arpit-varshney-6490102a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/arpit-varshney-6490102a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/arpitvarshney58">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  &nbsp;
+  <a href="https://www.instagram.com/arpitvarshney58" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="http://www.internbiz.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  &nbsp;
+  <a href="http://www.internbiz.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  
-</div>
+  &nbsp;
+  <a href="https://github.com/arpitvarshney44" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  ### 💭 Quote of the Day
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  
-  <br/>
-  
-  ### ✨ *"Turning complex requirements into simple, elegant code"*
-  
-  <br/>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-</div>
+  <!-- Dynamic Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 
-<div align="center">
-  
-  **⭐ From [arpitvarshney44](https://github.com/arpitvarshney44) | Open for Freelance Projects**
-  
+  <br/><br/>
+
+  <!-- Dynamic Waving Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:7aa2f7,50:bb9af7,100:f7768e&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+  <p>
+    <b>⭐ Crafted with passion by <a href="https://github.com/arpitvarshney44">Arpit Varshney</a> | Open for Freelance & Contract Opportunities</b>
+  </p>
+
 </div>
